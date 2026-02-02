@@ -56,18 +56,18 @@
 
 // console.log(hasGmail);
 
-const students = [
-    { name: "Ali", marks: 80 },
-    { name: "Sara", marks: 45 },
-    { name: "Ahmed", marks: 90 },
-    { name: "Zara", marks: 60 }
-  ];
+// const students = [
+//     { name: "Ali", marks: 80 },
+//     { name: "Sara", marks: 45 },
+//     { name: "Ahmed", marks: 90 },
+//     { name: "Zara", marks: 60 }
+//   ];
 
   
 
-  const passedStudents = students.filter(student => student.marks >= 50).map(student => student.name);
+//   const passedStudents = students.filter(student => student.marks >= 50).map(student => student.name);
 
-console.log(passedStudents);
+// console.log(passedStudents);
 
 
 
